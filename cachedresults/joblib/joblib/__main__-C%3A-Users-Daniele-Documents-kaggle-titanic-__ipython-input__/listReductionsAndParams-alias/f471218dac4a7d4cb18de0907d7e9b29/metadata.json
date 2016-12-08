@@ -1,0 +1,1 @@
+{"duration": 0.009999990463256836, "input_args": {"totnumfeatures": "23", "predictiontype": "'regression'", "estimator": "LinearRegression(copy_X=True, fit_intercept=True, n_jobs=1, normalize=False)"}}
