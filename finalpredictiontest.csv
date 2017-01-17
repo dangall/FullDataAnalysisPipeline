@@ -9,7 +9,7 @@
 883,26.0,X,S,29.0,United States,1,2,male,1,0.0
 884,18.0,X,C,7.2292,Other,0,3,female,0,1.0
 885,21.0,X,S,24.15,England,0,3,male,2,0.0
-886,27.5925227124,X,S,7.8958,Other,0,3,male,0,0.0
+886,27.5020382364,X,S,7.8958,Other,0,3,male,0,0.0
 887,46.0,X,S,26.0,United States,0,1,male,0,0.0
 888,23.0,B,S,82.2667,United States,0,1,female,1,1.0
 889,63.0,X,S,26.0,United States,0,2,male,1,0.0
@@ -21,50 +21,50 @@
 895,45.0,X,C,7.225,Other,0,3,female,0,0.0
 896,55.0,X,C,59.4,United States,0,1,male,1,0.0
 897,9.0,X,S,3.1708,United States,1,3,male,0,0.0
-898,39.8859402512,X,S,31.6833,Other,0,1,female,0,1.0
+898,39.9223184283,X,S,31.6833,Other,0,1,female,0,1.0
 899,21.0,X,C,61.3792,United States,1,1,male,0,0.0
 900,48.0,B,C,262.375,United States,3,1,female,1,1.0
 901,50.0,X,S,14.5,United States,0,3,male,1,0.0
 902,22.0,B,C,61.9792,United States,1,1,female,0,1.0
 903,22.5,X,C,7.225,Other,0,3,male,0,0.0
 904,41.0,A,S,30.5,United States,0,1,male,0,0.0
-905,22.3877697287,X,C,21.6792,Other,0,3,male,2,0.0
+905,22.3045814476,X,C,21.6792,Other,0,3,male,2,0.0
 906,50.0,X,S,26.0,England,0,2,male,1,0.0
 907,24.0,X,S,31.5,United States,0,2,male,2,0.0
 908,33.0,X,S,20.575,United States,2,3,female,1,0.0
-909,17.61805808,X,S,23.45,United States,2,3,female,1,0.0
+909,17.6431451177,X,S,23.45,United States,2,3,female,1,0.0
 910,30.0,C,C,57.75,United States,0,1,male,1,1.0
 911,18.5,X,C,7.2292,Other,0,3,male,0,0.0
-912,26.1547810118,X,S,8.05,United States,0,3,female,0,1.0
+912,26.3065981638,X,S,8.05,United States,0,3,female,0,1.0
 913,21.0,X,S,8.6625,Other,0,3,female,0,1.0
 914,25.0,X,S,9.5,Other,0,3,male,0,0.0
-915,24.2708683425,X,S,56.4958,Other,0,3,male,0,0.0
+915,24.1622181249,X,S,56.4958,Other,0,3,male,0,0.0
 916,39.0,X,C,13.4167,Other,1,3,male,0,0.0
-917,42.849546183,D,S,26.55,United States,0,1,male,0,0.0
+917,42.8337599554,D,S,26.55,United States,0,1,male,0,0.0
 918,41.0,X,S,7.85,United States,0,3,male,0,0.0
 919,30.0,X,S,13.0,United States,0,2,female,0,1.0
 920,45.0,D,S,52.5542,United States,0,1,female,1,1.0
 921,25.0,X,S,7.925,Finland,0,3,male,0,0.0
 922,45.0,A,C,29.7,Other,0,1,male,0,0.0
-923,27.6793410347,X,Q,7.75,United States,0,3,male,0,0.0
+923,27.7201995697,X,Q,7.75,United States,0,3,male,0,0.0
 924,60.0,D,C,76.2917,England,0,1,female,0,1.0
-925,36.0,X,S,15.9,Other,2,3,female,0,1.0
+925,36.0,X,S,15.9,Other,2,3,female,0,0.0
 926,24.0,C,S,60.0,United States,0,1,male,1,0.0
 927,27.0,X,C,15.0333,United States,0,2,male,0,0.0
 928,20.0,X,S,23.0,Other,1,2,female,2,1.0
 929,28.0,C,S,263.0,Other,2,1,female,3,1.0
-930,32.6489663732,X,C,15.5792,Other,0,2,male,0,0.0
+930,32.6529785917,X,C,15.5792,Other,0,2,male,0,0.0
 931,10.0,X,Q,29.125,United States,1,3,male,4,0.0
 932,35.0,X,S,7.8958,Other,0,3,male,0,0.0
 933,25.0,F,S,7.65,Other,0,3,male,0,0.0
-934,25.429553146,X,S,16.1,United States,0,3,male,1,0.0
+934,25.360145366,X,S,16.1,United States,0,3,male,1,0.0
 935,36.0,B,C,262.375,Other,0,1,female,0,1.0
 936,17.0,X,S,7.8958,Other,0,3,male,0,0.0
 937,32.0,X,S,13.5,United States,0,2,male,0,0.0
 938,18.0,X,S,7.75,Sweden,0,3,male,0,0.0
 939,22.0,X,Q,7.725,United States,0,3,female,0,1.0
 940,13.0,B,C,262.375,United States,2,1,male,2,1.0
-941,31.3876285035,X,S,21.0,United States,0,2,female,0,1.0
+941,31.5186044685,X,S,21.0,United States,0,2,female,0,1.0
 942,18.0,X,Q,7.8792,United States,0,3,female,0,1.0
 943,47.0,X,S,42.4,United States,0,1,male,0,0.0
 944,31.0,C,C,28.5375,United States,0,1,male,0,0.0
@@ -75,24 +75,24 @@
 949,28.5,D,C,27.7208,Other,0,1,male,0,1.0
 950,35.0,C,C,211.5,Other,0,1,female,0,1.0
 951,32.5,C,C,211.5,Other,0,1,male,0,0.0
-952,27.9225751845,X,S,8.05,United States,0,3,male,0,0.0
+952,27.9066369213,X,S,8.05,United States,0,3,male,0,0.0
 953,55.0,C,S,25.7,United States,0,1,female,2,1.0
 954,30.0,X,S,13.0,Other,0,2,male,0,0.0
 955,24.0,X,Q,7.75,United States,0,3,female,0,1.0
 956,6.0,X,C,15.2458,Other,1,3,male,1,1.0
 957,67.0,C,S,221.7792,Other,0,1,male,1,0.0
 958,49.0,X,S,26.0,United States,0,1,male,0,0.0
-959,27.5925227124,X,S,7.8958,Other,0,3,male,0,0.0
-960,33.0021184549,X,Q,10.7083,United States,0,2,male,0,0.0
-961,24.832260052,X,C,14.4542,Other,0,3,male,1,0.0
+959,27.5020382364,X,S,7.8958,Other,0,3,male,0,0.0
+960,33.0258705075,X,Q,10.7083,United States,0,2,male,0,0.0
+961,24.8022329186,X,C,14.4542,Other,0,3,male,1,0.0
 962,27.0,X,Q,7.8792,Other,0,3,female,0,1.0
 963,18.0,X,S,8.05,England,0,3,female,0,1.0
-964,25.5904259717,X,Q,7.75,Other,0,3,female,0,1.0
+964,25.7244360721,X,Q,7.75,Other,0,3,female,0,1.0
 965,2.0,X,S,23.0,United States,1,2,male,1,1.0
 966,22.0,X,S,13.9,Other,0,3,female,1,0.0
-967,27.5846637395,X,S,7.775,Other,0,3,male,0,0.0
+967,27.4942244163,X,S,7.775,Other,0,3,male,0,0.0
 968,27.0,B,S,52.0,United States,2,1,female,1,1.0
-969,27.9225751845,X,S,8.05,United States,0,3,male,0,0.0
+969,27.9066369213,X,S,8.05,United States,0,3,male,0,0.0
 970,25.0,X,C,26.0,United States,0,1,male,0,0.0
 971,25.0,X,S,7.7958,Sweden,0,3,male,0,0.0
 972,76.0,C,S,78.85,England,0,1,female,1,1.0
@@ -101,38 +101,38 @@
 975,33.0,X,S,8.05,Other,0,3,male,0,0.0
 976,43.0,C,C,55.4417,Other,0,1,female,1,1.0
 977,27.0,X,S,26.0,United States,0,2,male,1,0.0
-978,27.6793410347,X,Q,7.75,United States,0,3,male,0,0.0
+978,27.7201995697,X,Q,7.75,United States,0,3,male,0,0.0
 979,26.0,X,S,7.775,Other,0,3,male,0,0.0
 980,16.0,X,C,8.5167,United States,1,3,female,1,1.0
 981,28.0,X,S,22.525,Other,0,3,male,0,0.0
 982,21.0,X,Q,7.8208,United States,0,3,male,0,0.0
-983,27.6793410347,X,Q,7.75,United States,0,3,male,0,0.0
-984,27.6158957939,X,S,8.7125,Other,0,3,male,0,0.0
+983,27.7201995697,X,Q,7.75,United States,0,3,male,0,0.0
+984,27.5251060512,X,S,8.7125,Other,0,3,male,0,0.0
 985,18.5,F,S,13.0,Other,0,2,male,0,0.0
 986,41.0,X,C,15.0458,United States,0,2,male,0,0.0
-987,25.5924365766,X,Q,7.7792,Other,0,3,female,0,1.0
+987,25.7264357626,X,Q,7.7792,Other,0,3,female,0,1.0
 988,36.0,A,C,31.6792,United States,0,1,female,0,1.0
 989,18.5,X,Q,7.2833,United States,0,3,female,0,1.0
 990,63.0,C,S,221.7792,Other,0,1,female,1,1.0
 991,18.0,X,C,14.4542,Other,0,3,male,1,0.0
-992,27.3080255119,X,C,6.4375,United States,0,3,male,0,0.0
+992,27.406059298,X,C,6.4375,United States,0,3,male,0,0.0
 993,1.0,G,S,16.7,Sweden,1,3,female,1,1.0
 994,36.0,C,C,75.2417,United States,0,1,male,0,0.0
 995,29.0,X,S,26.0,United States,0,2,female,1,1.0
 996,12.0,X,S,15.75,United States,0,2,female,0,1.0
-997,25.7611022629,X,Q,7.75,United States,0,3,male,1,0.0
+997,25.7515002157,X,Q,7.75,United States,0,3,male,1,0.0
 998,35.0,C,C,57.75,Other,0,1,female,1,1.0
 999,28.0,X,S,7.25,United States,0,3,male,0,0.0
-1000,27.6793410347,X,Q,7.75,United States,0,3,male,0,0.0
+1000,27.7201995697,X,Q,7.75,United States,0,3,male,0,0.0
 1001,17.0,X,S,16.1,United States,1,3,female,0,1.0
 1002,22.0,X,S,7.7958,United States,0,3,male,0,0.0
-1003,21.3405407972,X,Q,23.25,United States,0,3,female,2,1.0
+1003,21.4424399823,X,Q,23.25,United States,0,3,female,2,1.0
 1004,42.0,X,S,13.0,Other,0,2,male,0,0.0
 1005,24.0,X,S,8.05,United States,0,3,male,0,0.0
 1006,32.0,X,S,8.05,United States,0,3,male,0,0.0
 1007,53.0,C,C,28.5,United States,0,1,male,0,0.0
-1008,27.4198512498,X,S,25.4667,United States,4,3,female,0,0.0
-1009,25.412316975,X,C,6.4375,United States,0,3,male,1,0.0
+1008,27.4241317567,X,S,25.4667,United States,4,3,female,0,0.0
+1009,25.4598901789,X,C,6.4375,United States,0,3,male,1,0.0
 1010,43.0,X,S,7.8958,United States,0,3,male,0,0.0
 1011,24.0,X,S,7.8542,Sweden,0,3,male,0,0.0
 1012,26.5,X,C,7.225,United States,0,3,male,0,0.0
@@ -145,12 +145,12 @@
 1019,28.0,X,S,26.0,United States,0,2,male,0,0.0
 1020,42.0,X,S,26.55,Sweden,0,1,male,0,0.0
 1021,31.0,X,S,18.0,Other,0,3,male,3,0.0
-1022,41.5581123867,E,S,51.8625,United States,0,1,male,0,0.0
+1022,41.5250511488,E,S,51.8625,United States,0,1,male,0,0.0
 1023,22.0,X,S,8.05,England,0,3,male,0,0.0
-1024,42.3121707176,X,S,26.55,United States,0,1,male,0,0.0
+1024,42.2573160577,X,S,26.55,United States,0,1,male,0,0.0
 1025,30.0,X,S,26.0,Finland,1,2,male,1,0.0
 1026,23.0,C,C,83.1583,England,1,1,female,0,1.0
-1027,27.1430840488,X,C,7.8958,Other,0,3,male,0,0.0
+1027,27.1659689009,X,C,7.8958,Other,0,3,male,0,0.0
 1028,60.5,X,S,13.6755501018,United States,0,3,male,0,0.0
 1029,36.0,X,S,12.1833,Other,2,3,female,0,0.0
 1030,13.0,X,S,31.3875,Sweden,2,3,male,4,0.0
@@ -158,21 +158,21 @@
 1032,29.0,C,S,221.7792,United States,0,1,female,0,1.0
 1033,23.0,X,S,7.8542,Sweden,0,3,female,0,1.0
 1034,42.0,D,S,26.55,England,0,1,male,0,1.0
-1035,26.0,X,S,13.775,United States,2,3,female,0,0.0
-1036,25.2681342386,X,Q,7.7333,England,0,3,female,0,1.0
+1035,26.0,X,S,13.775,United States,2,3,female,0,1.0
+1036,25.3275467314,X,Q,7.7333,England,0,3,female,0,1.0
 1037,7.0,X,C,15.2458,Other,1,3,male,1,1.0
 1038,26.0,X,S,13.5,United States,0,2,female,0,1.0
-1039,27.8350188664,X,S,7.0,United States,0,3,male,0,0.0
+1039,27.8194730729,X,S,7.0,United States,0,3,male,0,0.0
 1040,41.0,X,S,13.0,United States,0,2,male,0,0.0
-1041,26.0,X,S,22.025,Other,1,3,female,1,0.0
+1041,26.0,X,S,22.025,Other,1,3,female,1,1.0
 1042,48.0,B,C,50.4958,United States,0,1,male,0,0.0
 1043,18.0,X,S,34.375,United States,2,3,male,2,0.0
-1044,39.8653266098,X,C,27.7208,United States,0,1,female,0,1.0
+1044,40.0911590706,X,C,27.7208,United States,0,1,female,0,1.0
 1045,22.0,X,S,8.9625,Sweden,0,3,female,0,1.0
-1046,27.7284497279,X,S,7.55,Sweden,0,3,male,0,0.0
+1046,27.6753964302,X,S,7.55,Sweden,0,3,male,0,0.0
 1047,27.0,X,C,7.225,United States,0,3,male,0,0.0
 1048,23.0,X,S,13.9,Other,0,3,male,1,0.0
-1049,27.0893432708,X,C,7.2292,Other,0,3,male,0,0.0
+1049,27.1124772851,X,C,7.2292,Other,0,3,male,0,0.0
 1050,40.0,X,S,31.3875,Sweden,5,3,male,1,0.0
 1051,15.0,X,S,39.0,United States,2,2,female,0,1.0
 1052,20.0,X,S,36.75,United States,0,2,female,0,1.0
@@ -182,15 +182,15 @@
 1056,30.0,X,S,13.0,Other,0,2,male,0,0.0
 1057,37.0,E,C,83.1583,United States,1,1,male,1,0.0
 1058,18.0,D,S,53.1,United States,0,1,female,1,1.0
-1059,27.6793410347,X,Q,7.75,United States,0,3,male,0,0.0
+1059,27.7201995697,X,Q,7.75,United States,0,3,male,0,0.0
 1060,27.0,B,C,247.5208,United States,1,1,female,1,1.0
 1061,40.0,X,S,16.0,Other,0,2,male,0,0.0
 1062,21.0,X,S,21.0,United States,1,2,female,0,1.0
 1063,17.0,X,S,8.05,England,0,3,male,2,0.0
-1064,9.72843978886,X,S,69.55,United States,2,3,female,8,0.0
+1064,9.38307146145,X,S,69.55,United States,2,3,female,8,0.0
 1065,40.0,X,S,13.0,United States,0,2,male,0,0.0
 1066,34.0,X,S,26.0,Other,0,2,male,1,0.0
-1067,42.0014805643,X,S,26.0,Other,0,1,male,0,0.0
+1067,41.8722276341,X,S,26.0,Other,0,1,male,0,0.0
 1068,11.5,X,S,14.5,United States,1,3,male,1,0.0
 1069,61.0,X,Q,12.35,Other,0,2,male,0,0.0
 1070,8.0,X,S,32.5,United States,2,2,male,0,1.0
@@ -198,41 +198,41 @@
 1072,6.0,E,C,134.5,United States,2,1,male,0,1.0
 1073,18.0,X,S,7.775,Sweden,0,3,female,0,1.0
 1074,23.0,X,S,10.5,England,0,2,male,0,0.0
-1075,25.8369418973,X,S,8.1125,Other,0,3,female,0,1.0
-1076,25.5201874843,X,Q,15.5,United States,0,3,female,0,1.0
+1075,25.9141318382,X,S,8.1125,Other,0,3,female,0,1.0
+1076,25.7259046341,X,Q,15.5,United States,0,3,female,0,1.0
 1077,0.33,X,S,14.4,United States,2,3,male,0,1.0
 1078,47.0,C,C,227.525,Other,0,1,male,1,0.0
 1079,8.0,X,S,26.0,United States,1,2,female,1,1.0
 1080,25.0,X,S,10.5,Other,0,2,male,0,0.0
-1081,41.5622279364,X,C,25.7417,Other,0,1,male,0,0.0
+1081,41.5464408817,X,C,25.7417,Other,0,1,male,0,0.0
 1082,35.0,X,Q,7.75,United States,0,3,female,0,1.0
 1083,24.0,X,S,10.5,United States,0,2,male,0,0.0
 1084,33.0,A,C,27.7208,United States,0,1,female,0,1.0
 1085,25.0,X,S,7.8958,Other,0,3,male,0,0.0
 1086,32.0,X,S,22.525,Other,0,3,male,0,0.0
-1087,27.5196342666,X,S,7.05,Other,0,3,male,0,0.0
+1087,27.4294659344,X,S,7.05,Other,0,3,male,0,0.0
 1088,17.0,X,S,73.5,England,0,2,male,0,0.0
 1089,60.0,X,S,26.0,United States,0,2,female,1,1.0
 1090,38.0,X,S,7.775,Sweden,2,3,female,4,0.0
 1091,42.0,B,S,42.5,United States,0,1,male,0,0.0
-1092,25.9200958871,X,Q,7.8792,United States,0,3,female,0,1.0
+1092,26.1286615448,X,Q,7.8792,United States,0,3,female,0,1.0
 1093,57.0,X,S,164.8667,United States,1,1,male,1,0.0
 1094,50.0,C,C,211.5,United States,1,1,female,1,1.0
-1095,27.9225751845,X,S,8.05,United States,0,3,male,0,0.0
+1095,27.9066369213,X,S,8.05,United States,0,3,male,0,0.0
 1096,30.0,X,C,13.8583,England,0,2,female,1,1.0
 1097,21.0,X,S,8.05,United States,0,3,male,0,0.0
 1098,22.0,F,S,10.5,United States,0,2,female,0,1.0
 1099,21.0,X,S,7.7958,Sweden,0,3,male,0,0.0
 1100,53.0,X,C,27.4458,United States,0,1,female,0,1.0
-1101,19.6274690706,X,C,15.2458,Other,2,3,female,0,1.0
+1101,19.7448487402,X,C,15.2458,Other,2,3,female,0,1.0
 1102,23.0,X,S,7.7958,Sweden,0,3,male,0,0.0
-1103,25.911546862,X,Q,7.75,United States,0,3,female,0,1.0
+1103,26.1201608122,X,Q,7.75,United States,0,3,female,0,1.0
 1104,40.5,X,S,15.1,United States,0,3,male,0,0.0
 1105,36.0,X,S,13.0,Other,0,2,male,0,0.0
 1106,14.0,X,S,65.0,Other,0,2,male,0,0.0
 1107,21.0,X,S,26.55,United States,0,1,female,0,1.0
 1108,21.0,X,S,6.4958,Sweden,0,3,male,1,0.0
-1109,27.6878900598,X,Q,7.8792,United States,0,3,male,0,0.0
+1109,27.7287003023,X,Q,7.8792,United States,0,3,male,0,0.0
 1110,39.0,C,C,71.2833,United States,0,1,male,1,0.0
 1111,20.0,X,S,7.8542,Other,0,3,male,0,0.0
 1112,64.0,D,C,75.25,United States,0,1,male,1,0.0
@@ -242,20 +242,20 @@
 1116,55.0,X,C,27.7208,United States,0,1,female,0,1.0
 1117,45.0,X,S,30.0,United States,2,2,female,0,1.0
 1118,45.0,E,C,134.5,United States,1,1,male,1,0.0
-1119,27.9131282961,X,S,7.8875,United States,0,3,male,0,0.0
-1120,17.9326521012,X,S,23.45,United States,2,3,male,1,0.0
+1119,27.8972507722,X,S,7.8875,United States,0,3,male,0,0.0
+1120,17.7899837237,X,S,23.45,United States,2,3,male,1,0.0
 1121,41.0,D,S,51.8625,United States,0,1,male,1,0.0
 1122,22.0,X,S,21.0,United States,0,2,female,0,1.0
 1123,42.0,X,S,32.5,United States,1,2,male,1,0.0
 1124,29.0,X,S,26.0,Other,0,2,female,1,1.0
-1125,23.2672379935,X,C,14.4542,Other,0,3,female,1,1.0
+1125,23.4049662753,X,C,14.4542,Other,0,3,female,1,1.0
 1126,0.92,X,S,27.75,United States,2,2,female,1,1.0
 1127,20.0,X,S,7.925,Sweden,0,3,male,0,0.0
 1128,27.0,C,C,136.7792,United States,0,1,male,1,0.0
 1129,24.0,X,S,9.325,Sweden,0,3,male,0,0.0
 1130,32.5,X,S,9.5,Other,0,3,male,0,0.0
-1131,27.5678892828,X,S,7.55,Other,0,3,male,0,0.0
-1132,27.6793410347,X,Q,7.75,United States,0,3,male,0,0.0
+1131,27.4775340602,X,S,7.55,Other,0,3,male,0,0.0
+1132,27.7201995697,X,Q,7.75,United States,0,3,male,0,0.0
 1133,28.0,X,S,8.05,Sweden,0,3,male,0,0.0
 1134,19.0,X,S,13.0,England,0,2,female,0,1.0
 1135,21.0,X,S,7.775,United States,0,3,male,0,0.0
@@ -264,15 +264,15 @@
 1138,29.0,X,S,23.0,United States,2,2,female,0,1.0
 1139,1.0,X,S,12.1833,Other,1,3,female,1,1.0
 1140,30.0,X,C,12.7375,Other,0,2,male,0,0.0
-1141,27.5925227124,X,S,7.8958,Other,0,3,male,0,0.0
-1142,27.8890101731,X,S,7.55,United States,0,3,male,0,0.0
-1143,26.1547810118,X,S,8.05,United States,0,3,female,0,1.0
+1141,27.5020382364,X,S,7.8958,Other,0,3,male,0,0.0
+1142,27.8732588002,X,S,7.55,United States,0,3,male,0,0.0
+1143,26.3065981638,X,S,8.05,United States,0,3,female,0,1.0
 1144,17.0,X,S,8.6625,Other,0,3,male,0,0.0
 1145,46.0,C,C,75.2417,United States,0,1,male,0,0.0
-1146,27.6793410347,X,Q,7.75,United States,0,3,male,0,0.0
+1146,27.7201995697,X,Q,7.75,United States,0,3,male,0,0.0
 1147,26.0,C,C,136.7792,United States,0,1,female,1,1.0
-1148,23.6808045347,X,Q,15.5,United States,0,3,female,1,1.0
-1149,27.0889190909,X,C,7.225,Other,0,3,male,0,0.0
+1148,23.8360611023,X,Q,15.5,United States,0,3,female,1,1.0
+1149,27.112054675,X,C,7.225,Other,0,3,male,0,0.0
 1150,20.0,X,S,26.0,United States,0,2,female,1,1.0
 1151,28.0,X,S,10.5,United States,0,2,male,0,0.0
 1152,40.0,X,S,26.0,England,0,2,male,1,0.0
@@ -280,29 +280,29 @@
 1154,22.0,X,S,10.5,England,0,2,male,0,0.0
 1155,23.0,X,S,8.6625,Other,0,3,female,0,1.0
 1156,0.75,X,S,13.775,United States,1,3,male,1,1.0
-1157,25.911546862,X,Q,7.75,United States,0,3,female,0,1.0
+1157,26.1201608122,X,Q,7.75,United States,0,3,female,0,1.0
 1158,9.0,X,C,15.2458,Other,1,3,female,1,1.0
 1159,2.0,X,S,20.2125,Sweden,1,3,female,1,1.0
 1160,36.0,X,S,7.25,United States,0,3,male,0,0.0
-1161,27.8619865301,X,S,7.25,United States,0,3,male,0,0.0
+1161,27.8463472914,X,S,7.25,United States,0,3,male,0,0.0
 1162,24.0,B,S,82.2667,United States,0,1,male,1,0.0
-1163,27.7328894404,F,C,7.2292,United States,0,3,male,0,0.0
-1164,27.9225751845,X,S,8.05,United States,0,3,male,0,0.0
-1165,41.4497763461,X,S,39.6,Other,0,1,male,0,0.0
+1163,27.8540683638,F,C,7.2292,United States,0,3,male,0,0.0
+1164,27.9066369213,X,S,8.05,United States,0,3,male,0,0.0
+1165,41.3154399985,X,S,39.6,Other,0,1,male,0,0.0
 1166,30.0,X,Q,6.95,United States,0,3,female,0,1.0
-1167,27.0893432708,X,C,7.2292,Other,0,3,male,0,0.0
+1167,27.1124772851,X,C,7.2292,Other,0,3,male,0,0.0
 1168,53.0,A,S,81.8583,United States,1,1,male,1,0.0
 1169,36.0,X,S,9.5,Other,0,3,male,0,0.0
 1170,26.0,X,S,7.8958,United States,0,3,male,0,0.0
 1171,1.0,X,C,41.5792,Other,2,2,female,1,1.0
-1172,22.3877697287,X,C,21.6792,Other,0,3,male,2,0.0
+1172,22.3045814476,X,C,21.6792,Other,0,3,male,2,0.0
 1173,30.0,X,S,45.5,United States,0,1,male,0,0.0
 1174,29.0,X,S,7.8542,Sweden,0,3,male,0,0.0
 1175,32.0,X,S,7.775,Sweden,0,3,male,0,0.0
-1176,33.2011342351,D,C,15.0458,Other,0,2,male,0,0.0
+1176,33.2444142605,D,C,15.0458,Other,0,2,male,0,0.0
 1177,43.0,X,S,21.0,United States,1,2,male,0,0.0
 1178,24.0,X,S,8.6625,Other,0,3,male,0,0.0
-1179,25.911546862,X,Q,7.75,United States,0,3,female,0,1.0
+1179,26.1201608122,X,Q,7.75,United States,0,3,female,0,1.0
 1180,64.0,B,S,26.55,United States,1,1,female,1,1.0
 1181,30.0,C,S,151.55,United States,2,1,male,1,0.0
 1182,0.83,X,S,9.35,Other,1,3,male,0,1.0
@@ -310,8 +310,8 @@
 1184,45.0,X,S,14.1083,United States,0,3,female,1,0.0
 1185,18.0,X,S,8.6625,Other,0,3,male,0,0.0
 1186,22.0,X,C,7.225,United States,0,3,male,0,0.0
-1187,27.8910163771,X,S,7.575,United States,0,3,male,0,0.0
-1188,37.0,X,Q,7.75,United States,0,3,female,0,1.0
+1187,27.8752556597,X,S,7.575,United States,0,3,male,0,0.0
+1188,37.0,X,Q,7.75,United States,0,3,female,0,0.0
 1189,55.0,C,C,135.6333,United States,0,1,female,0,1.0
 1190,17.0,X,Q,7.7333,United States,0,3,female,0,1.0
 1191,57.0,B,C,146.5208,United States,0,1,male,1,0.0
@@ -330,19 +330,19 @@
 1204,21.0,X,S,13.0,Sweden,0,2,male,0,0.0
 1205,48.0,X,S,36.75,England,2,2,female,0,1.0
 1206,39.0,A,C,29.7,United States,0,1,male,0,0.0
-1207,27.4100399813,X,C,7.225,United States,0,3,male,0,0.0
+1207,27.5077794151,X,C,7.225,United States,0,3,male,0,0.0
 1208,19.0,X,C,15.7417,Other,1,3,female,1,1.0
 1209,27.0,X,S,7.8958,Other,0,3,male,0,0.0
 1210,30.0,C,S,26.0,United States,0,1,male,0,0.0
 1211,32.0,X,S,13.0,Other,0,2,male,0,0.0
 1212,39.0,X,C,7.2292,Other,2,3,male,0,0.0
 1213,25.0,X,S,31.5,Other,0,2,male,0,0.0
-1214,27.4104641612,X,C,7.2292,United States,0,3,male,0,0.0
+1214,27.5082020251,X,C,7.2292,United States,0,3,male,0,0.0
 1215,18.0,X,S,10.5,England,0,2,male,0,0.0
 1216,32.0,X,S,7.5792,Sweden,0,3,male,0,0.0
-1217,61.3206678103,X,S,69.55,United States,9,3,male,1,0.0
+1217,60.91397156,X,S,69.55,United States,9,3,male,1,0.0
 1218,58.0,B,C,512.3292,Other,1,1,female,0,1.0
-1219,19.413877945,X,S,14.5,United States,1,3,male,1,0.0
+1219,19.3098115595,X,S,14.5,United States,1,3,male,1,0.0
 1220,16.0,X,S,7.65,Other,0,3,female,0,1.0
 1221,26.0,X,S,13.0,United States,0,2,male,0,0.0
 1222,38.0,X,C,7.2292,United States,0,3,female,0,0.0
@@ -355,16 +355,16 @@
 1229,0.17,X,S,20.575,United States,2,3,female,1,1.0
 1230,50.0,E,S,26.0,United States,0,1,male,0,0.0
 1231,59.0,C,S,51.4792,United States,0,1,female,2,1.0
-1232,27.2703676108,X,S,7.8792,England,0,3,male,0,0.0
-1233,27.6793410347,X,Q,7.75,United States,0,3,male,0,0.0
+1232,27.1052854899,X,S,7.8792,England,0,3,male,0,0.0
+1233,27.7201995697,X,Q,7.75,United States,0,3,male,0,0.0
 1234,30.0,X,S,15.55,Sweden,0,3,female,1,1.0
 1235,14.5,X,S,69.55,United States,2,3,male,8,0.0
 1236,24.0,X,C,37.0042,Other,1,2,female,1,1.0
 1237,31.0,X,S,21.0,United States,0,2,female,0,1.0
 1238,27.0,X,S,8.6625,Other,0,3,male,0,0.0
 1239,25.0,E,C,55.4417,Other,0,1,female,1,1.0
-1240,65.5797114752,X,S,69.55,United States,9,3,female,1,0.0
-1241,24.8319299716,X,C,14.4583,Other,0,3,male,1,0.0
+1240,65.34077064,X,S,69.55,United States,9,3,female,1,0.0
+1241,24.8019013057,X,C,14.4583,Other,0,3,male,1,0.0
 1242,22.0,X,S,39.6875,Other,0,3,female,0,1.0
 1243,45.0,X,C,59.4,United States,1,1,female,0,1.0
 1244,29.0,X,C,13.8583,Other,0,2,male,0,0.0
@@ -377,17 +377,17 @@
 1251,21.0,X,S,11.5,England,0,2,male,0,0.0
 1252,55.0,C,S,50.0,United States,0,1,male,0,0.0
 1253,5.0,X,S,31.3875,Sweden,2,3,male,4,0.0
-1254,27.6793410347,X,Q,7.75,United States,0,3,male,0,0.0
+1254,27.7201995697,X,Q,7.75,United States,0,3,male,0,0.0
 1255,26.0,X,Q,7.8792,United States,0,3,male,0,0.0
-1256,25.8509570602,X,S,14.5,United States,0,3,female,0,1.0
-1257,19.0,X,S,16.1,United States,0,3,female,1,0.0
-1258,33.3775459649,X,S,12.875,United States,0,2,male,0,0.0
+1256,26.0003633266,X,S,14.5,United States,0,3,female,0,1.0
+1257,19.0,X,S,16.1,United States,0,3,female,1,1.0
+1258,33.3438034829,X,S,12.875,United States,0,2,male,0,0.0
 1259,24.0,X,S,65.0,United States,2,2,female,1,1.0
 1260,24.0,X,S,7.775,Sweden,0,3,male,0,0.0
 1261,57.0,X,S,13.0,United States,0,2,male,0,0.0
 1262,21.0,X,Q,7.75,United States,0,3,male,0,0.0
 1263,6.0,X,S,21.075,Sweden,1,3,male,3,0.0
-1264,23.0,B,S,93.5,United States,0,1,male,0,0.0
+1264,23.0,B,S,93.5,United States,0,1,male,0,1.0
 1265,51.0,D,S,39.4,England,1,1,female,0,1.0
 1266,13.0,X,S,20.25,United States,2,3,male,0,0.0
 1267,47.0,X,S,10.5,United States,0,2,male,0,0.0
@@ -405,13 +405,13 @@
 1279,20.0,D,C,13.8625,Other,0,2,male,0,0.0
 1280,23.0,X,S,10.5,United States,0,2,male,1,0.0
 1281,50.0,C,C,211.5,United States,1,1,male,1,0.0
-1282,25.8982244844,X,Q,7.7208,United States,0,3,female,0,1.0
+1282,26.1068493489,X,Q,7.7208,United States,0,3,female,0,1.0
 1283,3.0,X,S,13.775,United States,1,3,female,1,1.0
-1284,25.9002817446,X,Q,7.75,United States,0,3,female,0,1.0
+1284,26.1088956947,X,Q,7.75,United States,0,3,female,0,1.0
 1285,37.0,C,Q,90.0,United States,0,1,female,1,1.0
 1286,28.0,X,S,7.775,Sweden,0,3,female,0,1.0
-1287,27.9113100671,X,S,8.05,United States,0,3,male,0,0.0
+1287,27.8953718038,X,S,8.05,United States,0,3,male,0,0.0
 1288,39.0,C,C,108.9,Other,0,1,female,0,1.0
 1289,38.5,X,S,7.25,Other,0,3,male,0,0.0
-1290,27.9113100671,X,S,8.05,United States,0,3,male,0,0.0
-1291,17.8364553361,X,C,22.3583,Other,1,3,male,1,0.0
+1290,27.8953718038,X,S,8.05,United States,0,3,male,0,0.0
+1291,17.768217148,X,C,22.3583,Other,1,3,male,1,0.0
