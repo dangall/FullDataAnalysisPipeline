@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 cachedresults/
 bestregressors.pkl
+bestclassifiersTEMP.pkl
+bestclusteringmethods.pkl
