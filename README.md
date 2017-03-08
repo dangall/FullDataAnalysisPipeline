@@ -17,6 +17,8 @@ Finally, the most complex notebook is `Predictions.ipynb`. Here I guide the user
  - a data preprocessing part, which generates many different versions of the data;
  - a prediction part, which attempts a given prediction on the various versions of the data to find the most suitable one;
  - a section evaluating the various predictions, by including a wide variety of metrics such as scores, ROC curves, confusion matrices, probability evaluations, and model running times.
+ 
+ This notebook also outputs a new csv file with the predictions.
 
 ## Additional files
 
