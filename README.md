@@ -1,5 +1,5 @@
 # FullDataAnalysisPipeline
-![](http://personalpages.to.infn.it/~dgalloni/FullDataAnalysisPipeline.jpg)
+![](http://personalpages.to.infn.it/~dgalloni/FullDataAnalysisPipeline_small.jpg)
 The notebooks provided here constitute a full Data Analysis pipeline, which starts from raw collected data and ends with predictions, regressions, classifications, and clustering. To exemplify how to use it, I ran predictions on the famous Titanic survival dataset https://www.kaggle.com/c/titanic and achieved a test-set score of about 83%.
 
 The full process is divided into 3 main steps.
