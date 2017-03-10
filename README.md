@@ -1,4 +1,5 @@
 # FullDataAnalysisPipeline
+![](http://personalpages.to.infn.it/~dgalloni/FullDataAnalysisPipeline.jpg)
 The notebooks provided here constitute a full Data Analysis pipeline, which starts from raw collected data and ends with predictions, regressions, classifications, and clustering. To exemplify how to use it, I ran predictions on the famous Titanic survival dataset https://www.kaggle.com/c/titanic and achieved a test-set score of about 83%.
 
 The full process is divided into 3 main steps.
@@ -24,6 +25,4 @@ Finally, the most complex notebook is `Predictions.ipynb`. Here I guide the user
 
  - I also included a useful notebook, `GetNationality.ipynb`, which takes a dataframe with people's names and associated a nationality to each of those names, by scraping name-genealogy sites to identify the most common country for that name to appear in.
  - The csv files in included here are the various forms the data took along its path from raw to cleaned up to including new feature, and finally to including predictions.
- 
- ![](http://personalpages.to.infn.it/~dgalloni/subimage/mecastle.jpg)
  
