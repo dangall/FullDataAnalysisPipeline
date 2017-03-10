@@ -25,6 +25,5 @@ Finally, the most complex notebook is `Predictions.ipynb`. Here I guide the user
  - I also included a useful notebook, `GetNationality.ipynb`, which takes a dataframe with people's names and associated a nationality to each of those names, by scraping name-genealogy sites to identify the most common country for that name to appear in.
  - The csv files in included here are the various forms the data took along its path from raw to cleaned up to including new feature, and finally to including predictions.
  
- ![alt text](http://personalpages.to.infn.it/~dgalloni/subimage/mecastle.jpg)
+ ![](http://personalpages.to.infn.it/~dgalloni/subimage/mecastle.jpg)
  
- There
