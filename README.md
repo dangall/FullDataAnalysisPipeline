@@ -28,7 +28,7 @@ Finally, the most complex notebook is `Predictions.ipynb`. Here I guide the user
  
 ```
 $ sudo add-apt-repository \
-   "deb [arch=amd64] <-DOCKER-EE-URL> \
+   "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
    trusty \
-   stable-17.03"
+   stable"
 ```
